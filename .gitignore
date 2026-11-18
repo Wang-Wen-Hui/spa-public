@@ -1,0 +1,19 @@
+# Private research materials and generated outputs
+projects/
+output/
+.build/
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+*.pdf
+*.ppt
+*.pptx
+*.docx
+*.xlsx
+*.zip
+.DS_Store
+Thumbs.db

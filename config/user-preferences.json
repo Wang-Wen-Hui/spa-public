@@ -1,0 +1,46 @@
+{
+  "platform": "host-agent",
+  "review": [
+    "outline",
+    "preview"
+  ],
+  "expansion": "moderate-with-sources",
+  "theme": "academic-blue",
+  "images": "manual-placement-with-review",
+  "audience": "life-science-journal-club",
+  "duration_and_page_count": "dynamic",
+  "coverage": "read-main-and-supplement-display-main-only",
+  "science_review": "traceability-and-key-evidence",
+  "notes": "terms-reading-method-principles",
+  "layout_mode": "safe",
+  "notes_mode": "cues",
+  "narrative": "background-evidence-discussion-closing",
+  "author_background": "unframed-verified-portraits-relationships-in-notes",
+  "background_figures": "explain-method-or-design",
+  "terms": "expand-and-explain-on-first-use",
+  "missing_materials": "report-exact-source-and-affected-slide",
+  "priority": "scientific-accuracy-before-appearance",
+  "supplementary_figures": "notes-text-only-no-appendix",
+  "navigation": "few-descriptive-major-sections-numbered-subtitles",
+  "figure_labels": "top-edge-aligned",
+  "first_figure_type": "essential-reading-cues-on-slide-full-method-and-element-explanation-in-notes",
+  "preserve_unmentioned": true,
+  "body_numbering": "one-subsection-per-main-figure",
+  "main_figure_pages": {
+    "default": 1,
+    "maximum": 2,
+    "split_only_for_legibility": true,
+    "count_all_occurrences": true
+  },
+  "split_figure_titles": "identical-number-and-title",
+  "text_density": "minimal-figure-first",
+  "title_policy": "faithful-original-figure-title-translation",
+  "background_planning": "introduction-argument-to-specific-cited-figure",
+  "figure_geometry": "measured-panel-aspect-and-legible-size",
+  "text_treatments": [
+    "navy-white-label",
+    "white-black-explanation",
+    "rounded-gray-navy-finding",
+    "white-navy-term"
+  ]
+}

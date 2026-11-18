@@ -1,0 +1,8 @@
+{
+  "name": "spa-evidence-presentation-engine",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"test": "node --test tests/*.test.mjs", "demo": "node engine/cli.mjs demo", "check": "node engine/cli.mjs check examples/academic-blue.json"},
+  "engines": {"node": ">=22"}
+}

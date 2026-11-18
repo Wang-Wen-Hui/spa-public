@@ -1,0 +1,1039 @@
+{
+  "version": 2,
+  "demo": true,
+  "theme": "academic-red",
+  "mode": "safe",
+  "sources": [
+    {
+      "id": "demo",
+      "kind": "demo",
+      "locator": "SPA 布局演示：无真实论文数据"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "D1A",
+      "source": "demo",
+      "figure": "Demo 1",
+      "panel": "A",
+      "location": "示例 1，并非论文页码",
+      "question": "演示证据如何与解释对应",
+      "method": "这里只展示数据字段，不代表真实实验",
+      "condition": "演示条件；真实任务填写剂量与时间",
+      "control": "演示对照；真实任务填写具体对照",
+      "observation": "无科研观察值；不支持任何真实科学结论",
+      "statistics": "无统计数据；实际任务核对 n、重复类型及检验",
+      "limitation": "本示例仅供版式和备注功能检查",
+      "keywords": [
+        "证据对应",
+        "讲图顺序"
+      ],
+      "status": "demo",
+      "visual_status": "not-applicable"
+    },
+    {
+      "id": "D1B",
+      "source": "demo",
+      "figure": "Demo 1",
+      "panel": "B",
+      "location": "示例 1，并非论文页码",
+      "question": "演示证据如何与解释对应",
+      "method": "这里只展示数据字段，不代表真实实验",
+      "condition": "演示条件；真实任务填写剂量与时间",
+      "control": "演示对照；真实任务填写具体对照",
+      "observation": "无科研观察值；不支持任何真实科学结论",
+      "statistics": "无统计数据；实际任务核对 n、重复类型及检验",
+      "limitation": "本示例仅供版式和备注功能检查",
+      "keywords": [
+        "证据对应",
+        "讲图顺序"
+      ],
+      "status": "demo",
+      "visual_status": "not-applicable"
+    },
+    {
+      "id": "D1C",
+      "source": "demo",
+      "figure": "Demo 1",
+      "panel": "C",
+      "location": "示例 1，并非论文页码",
+      "question": "演示证据如何与解释对应",
+      "method": "这里只展示数据字段，不代表真实实验",
+      "condition": "演示条件；真实任务填写剂量与时间",
+      "control": "演示对照；真实任务填写具体对照",
+      "observation": "无科研观察值；不支持任何真实科学结论",
+      "statistics": "无统计数据；实际任务核对 n、重复类型及检验",
+      "limitation": "本示例仅供版式和备注功能检查",
+      "keywords": [
+        "证据对应",
+        "讲图顺序"
+      ],
+      "status": "demo",
+      "visual_status": "not-applicable"
+    },
+    {
+      "id": "D2A",
+      "source": "demo",
+      "figure": "Demo 2",
+      "panel": "A",
+      "location": "示例 2，并非论文页码",
+      "question": "演示证据如何与解释对应",
+      "method": "这里只展示数据字段，不代表真实实验",
+      "condition": "演示条件；真实任务填写剂量与时间",
+      "control": "演示对照；真实任务填写具体对照",
+      "observation": "无科研观察值；不支持任何真实科学结论",
+      "statistics": "无统计数据；实际任务核对 n、重复类型及检验",
+      "limitation": "本示例仅供版式和备注功能检查",
+      "keywords": [
+        "证据对应",
+        "讲图顺序"
+      ],
+      "status": "demo",
+      "visual_status": "not-applicable"
+    },
+    {
+      "id": "D2B",
+      "source": "demo",
+      "figure": "Demo 2",
+      "panel": "B",
+      "location": "示例 2，并非论文页码",
+      "question": "演示证据如何与解释对应",
+      "method": "这里只展示数据字段，不代表真实实验",
+      "condition": "演示条件；真实任务填写剂量与时间",
+      "control": "演示对照；真实任务填写具体对照",
+      "observation": "无科研观察值；不支持任何真实科学结论",
+      "statistics": "无统计数据；实际任务核对 n、重复类型及检验",
+      "limitation": "本示例仅供版式和备注功能检查",
+      "keywords": [
+        "证据对应",
+        "讲图顺序"
+      ],
+      "status": "demo",
+      "visual_status": "not-applicable"
+    },
+    {
+      "id": "D3A",
+      "source": "demo",
+      "figure": "Demo 3",
+      "panel": "A",
+      "location": "示例 3，并非论文页码",
+      "question": "演示证据如何与解释对应",
+      "method": "这里只展示数据字段，不代表真实实验",
+      "condition": "演示条件；真实任务填写剂量与时间",
+      "control": "演示对照；真实任务填写具体对照",
+      "observation": "无科研观察值；不支持任何真实科学结论",
+      "statistics": "无统计数据；实际任务核对 n、重复类型及检验",
+      "limitation": "本示例仅供版式和备注功能检查",
+      "keywords": [
+        "证据对应",
+        "讲图顺序"
+      ],
+      "status": "demo",
+      "visual_status": "not-applicable"
+    },
+    {
+      "id": "D4A",
+      "source": "demo",
+      "figure": "Demo 4",
+      "panel": "A",
+      "location": "示例 4，并非论文页码",
+      "question": "演示证据如何与解释对应",
+      "method": "这里只展示数据字段，不代表真实实验",
+      "condition": "演示条件；真实任务填写剂量与时间",
+      "control": "演示对照；真实任务填写具体对照",
+      "observation": "无科研观察值；不支持任何真实科学结论",
+      "statistics": "无统计数据；实际任务核对 n、重复类型及检验",
+      "limitation": "本示例仅供版式和备注功能检查",
+      "keywords": [
+        "证据对应",
+        "讲图顺序"
+      ],
+      "status": "demo",
+      "visual_status": "not-applicable"
+    },
+    {
+      "id": "D4B",
+      "source": "demo",
+      "figure": "Demo 4",
+      "panel": "B",
+      "location": "示例 4，并非论文页码",
+      "question": "演示证据如何与解释对应",
+      "method": "这里只展示数据字段，不代表真实实验",
+      "condition": "演示条件；真实任务填写剂量与时间",
+      "control": "演示对照；真实任务填写具体对照",
+      "observation": "无科研观察值；不支持任何真实科学结论",
+      "statistics": "无统计数据；实际任务核对 n、重复类型及检验",
+      "limitation": "本示例仅供版式和备注功能检查",
+      "keywords": [
+        "证据对应",
+        "讲图顺序"
+      ],
+      "status": "demo",
+      "visual_status": "not-applicable"
+    },
+    {
+      "id": "D4C",
+      "source": "demo",
+      "figure": "Demo 4",
+      "panel": "C",
+      "location": "示例 4，并非论文页码",
+      "question": "演示证据如何与解释对应",
+      "method": "这里只展示数据字段，不代表真实实验",
+      "condition": "演示条件；真实任务填写剂量与时间",
+      "control": "演示对照；真实任务填写具体对照",
+      "observation": "无科研观察值；不支持任何真实科学结论",
+      "statistics": "无统计数据；实际任务核对 n、重复类型及检验",
+      "limitation": "本示例仅供版式和备注功能检查",
+      "keywords": [
+        "证据对应",
+        "讲图顺序"
+      ],
+      "status": "demo",
+      "visual_status": "not-applicable"
+    },
+    {
+      "id": "D5A",
+      "source": "demo",
+      "figure": "Demo 5",
+      "panel": "A",
+      "location": "示例 5，并非论文页码",
+      "question": "演示证据如何与解释对应",
+      "method": "这里只展示数据字段，不代表真实实验",
+      "condition": "演示条件；真实任务填写剂量与时间",
+      "control": "演示对照；真实任务填写具体对照",
+      "observation": "无科研观察值；不支持任何真实科学结论",
+      "statistics": "无统计数据；实际任务核对 n、重复类型及检验",
+      "limitation": "本示例仅供版式和备注功能检查",
+      "keywords": [
+        "证据对应",
+        "讲图顺序"
+      ],
+      "status": "demo",
+      "visual_status": "not-applicable"
+    },
+    {
+      "id": "D5B",
+      "source": "demo",
+      "figure": "Demo 5",
+      "panel": "B",
+      "location": "示例 5，并非论文页码",
+      "question": "演示证据如何与解释对应",
+      "method": "这里只展示数据字段，不代表真实实验",
+      "condition": "演示条件；真实任务填写剂量与时间",
+      "control": "演示对照；真实任务填写具体对照",
+      "observation": "无科研观察值；不支持任何真实科学结论",
+      "statistics": "无统计数据；实际任务核对 n、重复类型及检验",
+      "limitation": "本示例仅供版式和备注功能检查",
+      "keywords": [
+        "证据对应",
+        "讲图顺序"
+      ],
+      "status": "demo",
+      "visual_status": "not-applicable"
+    },
+    {
+      "id": "D6A",
+      "source": "demo",
+      "figure": "Demo 6",
+      "panel": "A",
+      "location": "示例 6，并非论文页码",
+      "question": "演示证据如何与解释对应",
+      "method": "这里只展示数据字段，不代表真实实验",
+      "condition": "演示条件；真实任务填写剂量与时间",
+      "control": "演示对照；真实任务填写具体对照",
+      "observation": "无科研观察值；不支持任何真实科学结论",
+      "statistics": "无统计数据；实际任务核对 n、重复类型及检验",
+      "limitation": "本示例仅供版式和备注功能检查",
+      "keywords": [
+        "证据对应",
+        "讲图顺序"
+      ],
+      "status": "demo",
+      "visual_status": "not-applicable"
+    },
+    {
+      "id": "D7A",
+      "source": "demo",
+      "figure": "Demo 7",
+      "panel": "A",
+      "location": "示例 7，并非论文页码",
+      "question": "演示证据如何与解释对应",
+      "method": "这里只展示数据字段，不代表真实实验",
+      "condition": "演示条件；真实任务填写剂量与时间",
+      "control": "演示对照；真实任务填写具体对照",
+      "observation": "无科研观察值；不支持任何真实科学结论",
+      "statistics": "无统计数据；实际任务核对 n、重复类型及检验",
+      "limitation": "本示例仅供版式和备注功能检查",
+      "keywords": [
+        "证据对应",
+        "讲图顺序"
+      ],
+      "status": "demo",
+      "visual_status": "not-applicable"
+    },
+    {
+      "id": "D8A",
+      "source": "demo",
+      "figure": "Demo 8",
+      "panel": "A",
+      "location": "示例 8，并非论文页码",
+      "question": "演示证据如何与解释对应",
+      "method": "这里只展示数据字段，不代表真实实验",
+      "condition": "演示条件；真实任务填写剂量与时间",
+      "control": "演示对照；真实任务填写具体对照",
+      "observation": "无科研观察值；不支持任何真实科学结论",
+      "statistics": "无统计数据；实际任务核对 n、重复类型及检验",
+      "limitation": "本示例仅供版式和备注功能检查",
+      "keywords": [
+        "证据对应",
+        "讲图顺序"
+      ],
+      "status": "demo",
+      "visual_status": "not-applicable"
+    },
+    {
+      "id": "D9A",
+      "source": "demo",
+      "figure": "Demo 9",
+      "panel": "A",
+      "location": "示例 9，并非论文页码",
+      "question": "演示证据如何与解释对应",
+      "method": "这里只展示数据字段，不代表真实实验",
+      "condition": "演示条件；真实任务填写剂量与时间",
+      "control": "演示对照；真实任务填写具体对照",
+      "observation": "无科研观察值；不支持任何真实科学结论",
+      "statistics": "无统计数据；实际任务核对 n、重复类型及检验",
+      "limitation": "本示例仅供版式和备注功能检查",
+      "keywords": [
+        "证据对应",
+        "讲图顺序"
+      ],
+      "status": "demo",
+      "visual_status": "not-applicable"
+    },
+    {
+      "id": "D9B",
+      "source": "demo",
+      "figure": "Demo 9",
+      "panel": "B",
+      "location": "示例 9，并非论文页码",
+      "question": "演示证据如何与解释对应",
+      "method": "这里只展示数据字段，不代表真实实验",
+      "condition": "演示条件；真实任务填写剂量与时间",
+      "control": "演示对照；真实任务填写具体对照",
+      "observation": "无科研观察值；不支持任何真实科学结论",
+      "statistics": "无统计数据；实际任务核对 n、重复类型及检验",
+      "limitation": "本示例仅供版式和备注功能检查",
+      "keywords": [
+        "证据对应",
+        "讲图顺序"
+      ],
+      "status": "demo",
+      "visual_status": "not-applicable"
+    },
+    {
+      "id": "D10A",
+      "source": "demo",
+      "figure": "Demo 10",
+      "panel": "A",
+      "location": "示例 10，并非论文页码",
+      "question": "演示证据如何与解释对应",
+      "method": "这里只展示数据字段，不代表真实实验",
+      "condition": "演示条件；真实任务填写剂量与时间",
+      "control": "演示对照；真实任务填写具体对照",
+      "observation": "无科研观察值；不支持任何真实科学结论",
+      "statistics": "无统计数据；实际任务核对 n、重复类型及检验",
+      "limitation": "本示例仅供版式和备注功能检查",
+      "keywords": [
+        "证据对应",
+        "讲图顺序"
+      ],
+      "status": "demo",
+      "visual_status": "not-applicable"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "text": "背景三列式",
+      "kind": "demo",
+      "evidence": [
+        "D1A",
+        "D1B",
+        "D1C"
+      ]
+    },
+    {
+      "id": "C2",
+      "text": "原理与实验对应",
+      "kind": "demo",
+      "evidence": [
+        "D2A",
+        "D2B"
+      ]
+    },
+    {
+      "id": "C3",
+      "text": "大图与结论侧栏",
+      "kind": "demo",
+      "evidence": [
+        "D3A"
+      ]
+    },
+    {
+      "id": "C4",
+      "text": "多步骤证据链",
+      "kind": "demo",
+      "evidence": [
+        "D4A",
+        "D4B",
+        "D4C"
+      ]
+    },
+    {
+      "id": "C5",
+      "text": "实验对照比较",
+      "kind": "demo",
+      "evidence": [
+        "D5A",
+        "D5B"
+      ]
+    },
+    {
+      "id": "C6",
+      "text": "单图放大",
+      "kind": "demo",
+      "evidence": [
+        "D6A"
+      ]
+    },
+    {
+      "id": "C7",
+      "text": "实验流程",
+      "kind": "demo",
+      "evidence": [
+        "D7A"
+      ]
+    },
+    {
+      "id": "C8",
+      "text": "机制与证据边界",
+      "kind": "demo",
+      "evidence": [
+        "D8A"
+      ]
+    },
+    {
+      "id": "C9",
+      "text": "上下双图",
+      "kind": "demo",
+      "evidence": [
+        "D9A",
+        "D9B"
+      ]
+    },
+    {
+      "id": "C10",
+      "text": "讨论与局限",
+      "kind": "demo",
+      "evidence": [
+        "D10A"
+      ]
+    }
+  ],
+  "slides": [
+    {
+      "id": "S1",
+      "title": "背景三列式",
+      "slide_type": "demonstration",
+      "claim": "C1",
+      "section": "背景",
+      "purpose": "检查背景三列式的可读性与图位",
+      "relationship": "context",
+      "priority": "figure_first",
+      "pattern": "background-three-column",
+      "evidence": [
+        "D1A",
+        "D1B",
+        "D1C"
+      ],
+      "figures": [
+        {
+          "label": "已知背景",
+          "evidence": [
+            "D1A"
+          ],
+          "aspect": 1.5,
+          "preserve": [
+            "保留图例与比例尺"
+          ]
+        },
+        {
+          "label": "关键问题",
+          "evidence": [
+            "D1B"
+          ],
+          "aspect": 1.5,
+          "preserve": [
+            "保留图例与比例尺"
+          ]
+        },
+        {
+          "label": "科学空白",
+          "evidence": [
+            "D1C"
+          ],
+          "aspect": 1.5,
+          "preserve": [
+            "保留图例与比例尺"
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "title": "科学问题",
+          "text": "填写经过核查的解释\n保留必要的限定条件",
+          "evidence": [
+            "D1A"
+          ]
+        },
+        {
+          "title": "结果解释",
+          "text": "填写经过核查的解释\n保留必要的限定条件",
+          "evidence": [
+            "D1B"
+          ]
+        },
+        {
+          "title": "证据边界",
+          "text": "填写经过核查的解释\n保留必要的限定条件",
+          "evidence": [
+            "D1C"
+          ]
+        }
+      ],
+      "transition": "下一页展示另一种图文关系。"
+    },
+    {
+      "id": "S2",
+      "title": "原理与实验对应",
+      "slide_type": "demonstration",
+      "claim": "C2",
+      "section": "背景",
+      "purpose": "检查原理与实验对应的可读性与图位",
+      "relationship": "experiment_then_validation",
+      "priority": "figure_first",
+      "pattern": "principle-experiment",
+      "evidence": [
+        "D2A",
+        "D2B"
+      ],
+      "figures": [
+        {
+          "label": "证据 1",
+          "evidence": [
+            "D2A"
+          ],
+          "aspect": 1.5,
+          "preserve": [
+            "保留图例与比例尺"
+          ]
+        },
+        {
+          "label": "证据 2",
+          "evidence": [
+            "D2B"
+          ],
+          "aspect": 1.5,
+          "preserve": [
+            "保留图例与比例尺"
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "title": "科学问题",
+          "text": "填写经过核查的解释\n保留必要的限定条件",
+          "evidence": [
+            "D2A"
+          ]
+        }
+      ],
+      "transition": "下一页展示另一种图文关系。"
+    },
+    {
+      "id": "S3",
+      "title": "大图与结论侧栏",
+      "slide_type": "demonstration",
+      "claim": "C3",
+      "section": "证据",
+      "purpose": "检查大图与结论侧栏的可读性与图位",
+      "relationship": "detail",
+      "priority": "figure_first",
+      "pattern": "figure-with-explanation",
+      "evidence": [
+        "D3A"
+      ],
+      "figures": [
+        {
+          "label": "证据 1",
+          "evidence": [
+            "D3A"
+          ],
+          "aspect": 1.5,
+          "preserve": [
+            "保留图例与比例尺"
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "title": "科学问题",
+          "text": "填写经过核查的解释\n保留必要的限定条件",
+          "evidence": [
+            "D3A"
+          ]
+        }
+      ],
+      "transition": "下一页展示另一种图文关系。"
+    },
+    {
+      "id": "S4",
+      "title": "多步骤证据链",
+      "slide_type": "demonstration",
+      "claim": "C4",
+      "section": "证据",
+      "purpose": "检查多步骤证据链的可读性与图位",
+      "relationship": "sequence",
+      "priority": "figure_first",
+      "pattern": "evidence-chain",
+      "evidence": [
+        "D4A",
+        "D4B",
+        "D4C"
+      ],
+      "figures": [
+        {
+          "label": "证据 1",
+          "evidence": [
+            "D4A"
+          ],
+          "aspect": 1.5,
+          "preserve": [
+            "保留图例与比例尺"
+          ]
+        },
+        {
+          "label": "证据 2",
+          "evidence": [
+            "D4B"
+          ],
+          "aspect": 1.5,
+          "preserve": [
+            "保留图例与比例尺"
+          ]
+        },
+        {
+          "label": "证据 3",
+          "evidence": [
+            "D4C"
+          ],
+          "aspect": 1.5,
+          "preserve": [
+            "保留图例与比例尺"
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "title": "科学问题",
+          "text": "填写经过核查的解释\n保留必要的限定条件",
+          "evidence": [
+            "D4A"
+          ]
+        },
+        {
+          "title": "结果解释",
+          "text": "填写经过核查的解释\n保留必要的限定条件",
+          "evidence": [
+            "D4B"
+          ]
+        },
+        {
+          "title": "证据边界",
+          "text": "填写经过核查的解释\n保留必要的限定条件",
+          "evidence": [
+            "D4C"
+          ]
+        }
+      ],
+      "transition": "下一页展示另一种图文关系。"
+    },
+    {
+      "id": "S5",
+      "title": "实验对照比较",
+      "slide_type": "demonstration",
+      "claim": "C5",
+      "section": "证据",
+      "purpose": "检查实验对照比较的可读性与图位",
+      "relationship": "comparison",
+      "priority": "figure_first",
+      "pattern": "experiment-comparison",
+      "evidence": [
+        "D5A",
+        "D5B"
+      ],
+      "figures": [
+        {
+          "label": "对照条件",
+          "evidence": [
+            "D5A"
+          ],
+          "aspect": 1.5,
+          "preserve": [
+            "保留图例与比例尺"
+          ]
+        },
+        {
+          "label": "干预条件",
+          "evidence": [
+            "D5B"
+          ],
+          "aspect": 1.5,
+          "preserve": [
+            "保留图例与比例尺"
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "title": "科学问题",
+          "text": "填写经过核查的解释\n保留必要的限定条件",
+          "evidence": [
+            "D5A"
+          ]
+        },
+        {
+          "title": "结果解释",
+          "text": "填写经过核查的解释\n保留必要的限定条件",
+          "evidence": [
+            "D5B"
+          ]
+        }
+      ],
+      "transition": "下一页展示另一种图文关系。"
+    },
+    {
+      "id": "S6",
+      "title": "单图放大",
+      "slide_type": "demonstration",
+      "claim": "C6",
+      "section": "证据",
+      "purpose": "检查单图放大的可读性与图位",
+      "relationship": "detail",
+      "priority": "figure_first",
+      "pattern": "figure-focus",
+      "evidence": [
+        "D6A"
+      ],
+      "figures": [
+        {
+          "label": "证据 1",
+          "evidence": [
+            "D6A"
+          ],
+          "aspect": 3,
+          "preserve": [
+            "保留图例与比例尺"
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "title": "科学问题",
+          "text": "用一句经核实的结论概括主图，并保留重要限定条件。",
+          "evidence": [
+            "D6A"
+          ]
+        }
+      ],
+      "transition": "下一页展示另一种图文关系。"
+    },
+    {
+      "id": "S7",
+      "title": "实验流程",
+      "slide_type": "demonstration",
+      "claim": "C7",
+      "section": "证据",
+      "purpose": "检查实验流程的可读性与图位",
+      "relationship": "workflow",
+      "priority": "figure_first",
+      "pattern": "method-workflow",
+      "evidence": [
+        "D7A"
+      ],
+      "figures": [],
+      "blocks": [
+        {
+          "title": "步骤 1",
+          "text": "材料与条件\n操作与读出",
+          "evidence": [
+            "D7A"
+          ]
+        },
+        {
+          "title": "步骤 2",
+          "text": "材料与条件\n操作与读出",
+          "evidence": [
+            "D7A"
+          ]
+        },
+        {
+          "title": "步骤 3",
+          "text": "材料与条件\n操作与读出",
+          "evidence": [
+            "D7A"
+          ]
+        },
+        {
+          "title": "步骤 4",
+          "text": "材料与条件\n操作与读出",
+          "evidence": [
+            "D7A"
+          ]
+        },
+        {
+          "title": "步骤 5",
+          "text": "材料与条件\n操作与读出",
+          "evidence": [
+            "D7A"
+          ]
+        }
+      ],
+      "transition": "下一页展示另一种图文关系。"
+    },
+    {
+      "id": "S8",
+      "title": "机制与证据边界",
+      "slide_type": "demonstration",
+      "claim": "C8",
+      "section": "证据",
+      "purpose": "检查机制与证据边界的可读性与图位",
+      "relationship": "mechanism",
+      "priority": "figure_first",
+      "pattern": "mechanism-analysis",
+      "evidence": [
+        "D8A"
+      ],
+      "figures": [
+        {
+          "label": "证据 1",
+          "evidence": [
+            "D8A"
+          ],
+          "aspect": 1,
+          "preserve": [
+            "保留图例与比例尺"
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "title": "科学问题",
+          "text": "解释关键证据\n保留结论边界",
+          "evidence": [
+            "D8A"
+          ]
+        },
+        {
+          "title": "结果解释",
+          "text": "解释关键证据\n保留结论边界",
+          "evidence": [
+            "D8A"
+          ]
+        }
+      ],
+      "transition": "下一页展示另一种图文关系。"
+    },
+    {
+      "id": "S9",
+      "title": "上下双图",
+      "slide_type": "demonstration",
+      "claim": "C9",
+      "section": "讨论",
+      "purpose": "检查上下双图的可读性与图位",
+      "relationship": "detail",
+      "priority": "figure_first",
+      "pattern": "stacked-panels",
+      "evidence": [
+        "D9A",
+        "D9B"
+      ],
+      "figures": [
+        {
+          "label": "证据 1",
+          "evidence": [
+            "D9A"
+          ],
+          "aspect": 2.6,
+          "preserve": [
+            "保留图例与比例尺"
+          ]
+        },
+        {
+          "label": "证据 2",
+          "evidence": [
+            "D9B"
+          ],
+          "aspect": 2.6,
+          "preserve": [
+            "保留图例与比例尺"
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "title": "科学问题",
+          "text": "填写经过核查的解释\n保留必要的限定条件",
+          "evidence": [
+            "D9A"
+          ]
+        }
+      ],
+      "transition": "下一页展示另一种图文关系。"
+    },
+    {
+      "id": "S10",
+      "title": "讨论与局限",
+      "slide_type": "demonstration",
+      "claim": "C10",
+      "section": "讨论",
+      "purpose": "检查讨论与局限的可读性与图位",
+      "relationship": "synthesis",
+      "priority": "figure_first",
+      "pattern": "discussion-summary",
+      "evidence": [
+        "D10A"
+      ],
+      "figures": [],
+      "blocks": [
+        {
+          "title": "主要结论",
+          "text": "填写经过核查的解释\n保留必要的限定条件",
+          "evidence": [
+            "D10A"
+          ]
+        },
+        {
+          "title": "证据局限",
+          "text": "填写经过核查的解释\n保留必要的限定条件",
+          "evidence": [
+            "D10A"
+          ]
+        },
+        {
+          "title": "进一步验证",
+          "text": "填写经过核查的解释\n保留必要的限定条件",
+          "evidence": [
+            "D10A"
+          ]
+        },
+        {
+          "title": "研究启发",
+          "text": "填写经过核查的解释\n保留必要的限定条件",
+          "evidence": [
+            "D10A"
+          ]
+        }
+      ],
+      "transition": "结束：回到核心科学问题。"
+    }
+  ],
+  "coverage": [
+    {
+      "evidence": "D1A",
+      "disposition": "included",
+      "critical": true
+    },
+    {
+      "evidence": "D1B",
+      "disposition": "included",
+      "critical": true
+    },
+    {
+      "evidence": "D1C",
+      "disposition": "included",
+      "critical": true
+    },
+    {
+      "evidence": "D2A",
+      "disposition": "included",
+      "critical": true
+    },
+    {
+      "evidence": "D2B",
+      "disposition": "included",
+      "critical": true
+    },
+    {
+      "evidence": "D3A",
+      "disposition": "included",
+      "critical": true
+    },
+    {
+      "evidence": "D4A",
+      "disposition": "included",
+      "critical": true
+    },
+    {
+      "evidence": "D4B",
+      "disposition": "included",
+      "critical": true
+    },
+    {
+      "evidence": "D4C",
+      "disposition": "included",
+      "critical": true
+    },
+    {
+      "evidence": "D5A",
+      "disposition": "included",
+      "critical": true
+    },
+    {
+      "evidence": "D5B",
+      "disposition": "included",
+      "critical": true
+    },
+    {
+      "evidence": "D6A",
+      "disposition": "included",
+      "critical": true
+    },
+    {
+      "evidence": "D7A",
+      "disposition": "included",
+      "critical": true
+    },
+    {
+      "evidence": "D8A",
+      "disposition": "included",
+      "critical": true
+    },
+    {
+      "evidence": "D9A",
+      "disposition": "included",
+      "critical": true
+    },
+    {
+      "evidence": "D9B",
+      "disposition": "included",
+      "critical": true
+    },
+    {
+      "evidence": "D10A",
+      "disposition": "included",
+      "critical": true
+    }
+  ]
+}

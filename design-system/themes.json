@@ -1,0 +1,4 @@
+{
+  "academic-blue": {"accent":"#173D63","pale":"#EDF2F7","ink":"#243342","muted":"#627487","line":"#9AA9B8","paper":"#FFFFFF","card":"#F1F3F5","font":"Microsoft YaHei","navigation":"side","cardRadius":14,"figureLabel":"centered-border","labelRadius":6,"compactHeader":true},
+  "academic-red": {"accent":"#8B2032","pale":"#F8EEF0","ink":"#302B2D","muted":"#78676D","line":"#B49EA3","paper":"#FFFFFF","card":"#F3F1F2","font":"Microsoft YaHei","navigation":"top"}
+}
